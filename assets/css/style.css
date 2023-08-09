@@ -39,6 +39,7 @@ nav{
     justify-content: center;
     align-items: center;
     gap: 8px;
+    padding-left: 32px;
 }
 
 .logo img{ 
@@ -52,6 +53,7 @@ nav{
     font-style: normal;
     font-weight: 500;
     line-height: 24px;
+    padding-right: 22%;
 }
 .paginas ul {
     display: flex;
@@ -76,6 +78,7 @@ ul {
     font-style: normal;
     font-weight: 500;
     line-height: 24px;
+    padding-right: 32px;
 }
 
 #btn-entrar {
@@ -131,7 +134,7 @@ header h1{
     color: var(--cinza-escuro2);
     font-size: 48px;
     font-weight: 600;
-    line-height: 60px; /* 125% */
+    line-height: 60px; 
     letter-spacing: -0.96px;
 }
 
@@ -141,5 +144,51 @@ header h1{
     font-weight: 400;
     line-height: 30px; 
     text-align: center;
+}
+
+.metricas-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+}
+
+.metricas {
+    display: flex;
+    width: 1280px;
+    padding: 0px 32px;
+    align-items: flex-start;
+    gap: 64px;
+}
+
+.metricas div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.metricas span{
+    color: var(--vermelho-escuro);
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 120%; 
+    letter-spacing: -1.2px;
+}
+
+.metricas h1{
+    color: var(--cinza-escuro2);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 155.556%;
+}
+
+.metricas p{
+    color: var(--cinza-claro);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
 }
 
