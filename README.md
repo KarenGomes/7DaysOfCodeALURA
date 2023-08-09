@@ -1,7 +1,7 @@
 # 7DaysOfCodeALURA
 #7DaysOfCode HTML e CSS. Criando uma página completa de 'Vagas' de uma empresa fictícia com Giovanna Moeller. 
 
-Projeto de referência no figma: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1&mode=dev
+[Clique aqui](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1&mode=dev) para vizualizar o projeto de referência no figma.
 
 DIA 1: Foi desenvolvido o Navbar da aplicação, que contempla o logo, o menu com as páginas e também os dois botões no canto direito.
 
