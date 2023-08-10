@@ -11,3 +11,5 @@ DIA 2: Foi desenvolvido o cabeçalho da landing page. Além disso foi adicionado
 
 DIA 3: Foi desenvolvido a seção de métricas e resultados da página, assim como foi modificados alguns detalhes do CSS do navbar que não estava de acordo com a referência no figma.
 
+DIA 4: Foi adicionada a section "vagas" em que foi adicionada textos e a imagem, mas sem a parte de divulgação de vagas ainda.
+

@@ -192,3 +192,53 @@ header h1{
     line-height: 150%;
 }
 
+.vagas {
+    display: flex;
+    padding: 96px 0px;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+}
+
+.vagas-texto {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    width: 768px;
+    height: auto;
+}
+
+.vagas-texto span {
+    display: flex;
+    padding: 4px 12px;
+    justify-content: center;
+    align-items: space-between;
+    border-radius: 16px;
+    background: rgba(142, 36, 36, 0.05);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 142.857% ;
+    color: var(--vermelho-escuro);
+    text-align: center;
+}
+
+.vagas-texto h1 {
+    color: var(--cinza-escuro2);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 122.222%
+}
+
+.vagas-texto p {
+    color: var(--cinza-claro);
+    font-size: 20px;
+    font-style : normal;
+    font-weight: 400;
+    line-height: 150% 
+}
+
+.vagas img {
+    width: 1216px;
+    height: 400px;
+}
