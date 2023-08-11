@@ -13,3 +13,5 @@ DIA 3: Foi desenvolvido a seção de métricas e resultados da página, assim co
 
 DIA 4: Foi adicionada a section "vagas" em que foi adicionada textos e a imagem, mas sem a parte de divulgação de vagas ainda.
 
+DIA 5: A seção "vagas" foi finalizada adicionando as vagas disponíveis para "Design" e "Desenvolvimento de software" com blocos e sub-blocos organizados e alinhados e com os títulos de cada seção. 
+

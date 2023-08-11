@@ -242,3 +242,54 @@ header h1{
     width: 1216px;
     height: 400px;
 }
+
+
+.design, .desenvolvimento-sw {
+    display: flex;
+    width: 768px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.design h1, .desenvolvimento-sw h1 {
+    align-self: stretch;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    color: var(--cinza-escuro2);
+
+}
+
+.vaga {
+    display: flex;
+    padding: 24px 24px 28px 24px;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    border-radius: 16px;
+    border: 1px solid #EAECF0;
+    align-self: stretch;
+}
+
+.titulo-vaga{
+    color: var(--cinza-escuro2);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 155.556%; 
+    align-self: stretch;
+}
+
+.informacoes {
+    color: var(--cinza-claro);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    gap: 24px;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+}
