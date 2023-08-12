@@ -15,3 +15,5 @@ DIA 4: Foi adicionada a section "vagas" em que foi adicionada textos e a imagem,
 
 DIA 5: A seção "vagas" foi finalizada adicionando as vagas disponíveis para "Design" e "Desenvolvimento de software" com blocos e sub-blocos organizados e alinhados e com os títulos de cada seção. 
 
+DIA 6: Foi desenvolvida a seção "depoimentos" contendo um pequeno texto acima, um título, uma imagem de uma colaboradora, além de seu nome e cargo dentro da empresa.
+
