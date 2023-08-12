@@ -24,3 +24,6 @@ DIA 7: Por último o rodapé da página foi desenvolvido possuindo um título, u
 Durante o desafio tive algumas dificuldades em saber quais proporções do figma eram necessárias ou não, acredito que algumas partes do CSS eu pequei por excesso, além disso tive algumas dificuldades com o uso do Flexbox entretando durante os dias em que estava desenvolvendo a landing page sinto que evolui nesse quesito.
 O desafio foi uma boa oportunidade não apenas para testar meus conhecimentos e como também colocar em prática meus estudos.
 
+### Projeto final
+
+[Clique aqui](https://karengomes.github.io/7DaysOfCodeALURA/) para vizualizar o projeto final. 
